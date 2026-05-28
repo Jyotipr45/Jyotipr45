@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotipr45&label=Profile%20views&color=0e75b6&style=flat" alt="jyotipr45" /> </p>
 
-- 🔭 I’m currently working on [RentRead_v1](https://github.com/Jyotipr45/RentRead_v1)
+- 🔭 I’m currently working on [Java Backend Lab](https://github.com/Jyotipr45/java-backend-lab)
 
 - 🌱 I’m currently learning **Design Patterns**
 
