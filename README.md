@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jyoti Prakash</h1>
+<h1 align="center">Hi 👋, I'm JyotiPrakash</h1>
 <h3 align="center">Passionate Coder from India | Eager to Solve Challenges</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
