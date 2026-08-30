@@ -123,7 +123,7 @@ public record Engineer(String name, String role, int yearsShipping) {
   <td><sub><code>Kafka</code> <code>Spring Cloud</code> <code>PostgreSQL</code> <code>ArgoCD</code> <code>Helm</code></sub></td>
 </tr>
 <tr>
-  <td><b>🧪 Java Backend Lab</b><br/><sub><a href="https://github.com/Jyotipr45/java-backend-lab">repo →</a></sub></td>
+  <td><b>🧪 Distributed Coupon System</b><br/><sub><a href="https://github.com/Jyotipr45/distributed-coupon-system">repo →</a></sub></td>
   <td>Public playground for backend patterns — concurrency, caching, design patterns, and Spring internals, built as runnable experiments.</td>
   <td><sub><code>Java</code> <code>Spring Boot</code> <code>JUnit</code></sub></td>
 </tr>
