@@ -9,13 +9,13 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,A
 .sm{font-size:13px;font-weight:600}
 .wheel{animation:wheel 13.2s cubic-bezier(.83,0,.17,1) infinite}
 @keyframes wheel{0.00%,19.70%{transform:translateY(0px)}25.00%,44.70%{transform:translateY(-78px)}50.00%,69.70%{transform:translateY(-156px)}75.00%,94.70%{transform:translateY(-234px)}100%{transform:translateY(-312px)}}
-.rule{stroke-dasharray:920;stroke-dashoffset:920;animation:draw 1.4s cubic-bezier(.65,0,.35,1) .2s forwards}
+.rule{}
 @keyframes draw{to{stroke-dashoffset:0}}
-.in{opacity:0;animation:in .9s cubic-bezier(.22,1,.36,1) forwards}
+.in{}
 @keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
 .b1{animation:f1 14s ease-in-out infinite}.b2{animation:f2 17s ease-in-out infinite}.b3{animation:f3 12s ease-in-out infinite}
 @keyframes f1{50%{transform:translate(-60px,30px)}}@keyframes f2{50%{transform:translate(50px,-25px)}}@keyframes f3{50%{transform:translate(-30px,-30px)}}
-.chip{opacity:0;animation:in .7s cubic-bezier(.22,1,.36,1) forwards}
+.chip{}
 .chip:nth-of-type(1){animation-delay:1.00s}.chip:nth-of-type(2){animation-delay:1.08s}.chip:nth-of-type(3){animation-delay:1.16s}.chip:nth-of-type(4){animation-delay:1.24s}.chip:nth-of-type(5){animation-delay:1.32s}.chip:nth-of-type(6){animation-delay:1.40s}
 .blink{animation:bl 1.6s ease-in-out infinite}@keyframes bl{50%{opacity:.25}}
 @keyframes d0{0%,0.00%{transform:scaleX(.35);opacity:.35}2.00%,23.00%{transform:scaleX(1);opacity:1}25.01%,100%{transform:scaleX(.35);opacity:.35}}.d0{transform-box:fill-box;transform-origin:left center;animation:d0 13.2s infinite}@keyframes d1{0%,24.99%{transform:scaleX(.35);opacity:.35}27.00%,48.00%{transform:scaleX(1);opacity:1}50.01%,100%{transform:scaleX(.35);opacity:.35}}.d1{transform-box:fill-box;transform-origin:left center;animation:d1 13.2s infinite}@keyframes d2{0%,49.99%{transform:scaleX(.35);opacity:.35}52.00%,73.00%{transform:scaleX(1);opacity:1}75.01%,100%{transform:scaleX(.35);opacity:.35}}.d2{transform-box:fill-box;transform-origin:left center;animation:d2 13.2s infinite}@keyframes d3{0%,74.99%{transform:scaleX(.35);opacity:.35}77.00%,98.00%{transform:scaleX(1);opacity:1}100.00%,100%{transform:scaleX(.35);opacity:.35}}.d3{transform-box:fill-box;transform-origin:left center;animation:d3 13.2s infinite}
