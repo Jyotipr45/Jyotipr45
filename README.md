@@ -54,8 +54,8 @@ I've shipped microservices for fleet management, document AI (OCR) and RFID asse
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=java,spring,kafka,nodejs,python,postgres,mysql,mongodb,redis,docker,kubernetes,aws,githubactions,nginx,linux,git&theme=dark&perline=8">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,nodejs,python,postgres,mysql,mongodb,redis,docker,kubernetes,aws,githubactions,nginx,linux,git&theme=light&perline=8">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Ckafka%2Cnodejs%2Cpython%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cdocker%2Ckubernetes%2Caws%2Cgithubactions%2Cnginx%2Clinux%2Cgit&theme=dark&perline=8">
+    <img src="https://skillicons.dev/icons?i=java%2Cspring%2Ckafka%2Cnodejs%2Cpython%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cdocker%2Ckubernetes%2Caws%2Cgithubactions%2Cnginx%2Clinux%2Cgit&theme=light&perline=8" alt="Java, Spring, Kafka, Node.js, Python, PostgreSQL, MySQL, MongoDB, Redis, Docker, Kubernetes, AWS, GitHub Actions, Nginx, Linux, Git">
   </picture>
 </p>
 
@@ -63,32 +63,40 @@ I've shipped microservices for fleet management, document AI (OCR) and RFID asse
 
 ### Selected work
 
-<p align="center">
-  <a href="https://github.com/Jyotipr45/fintech-oauth2-oidc-microservices">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Jyotipr45&repo=fintech-oauth2-oidc-microservices&hide_border=true&bg_color=0b0d14&title_color=60a5fa&icon_color=06b6d4&text_color=94a3b8">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jyotipr45&repo=fintech-oauth2-oidc-microservices&hide_border=true&bg_color=f8fafc&title_color=2563eb&icon_color=06b6d4&text_color=475569">
-    </picture>
-  </a>
-  <a href="https://github.com/Jyotipr45/distributed-coupon-system">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Jyotipr45&repo=distributed-coupon-system&hide_border=true&bg_color=0b0d14&title_color=a78bfa&icon_color=ec4899&text_color=94a3b8">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jyotipr45&repo=distributed-coupon-system&hide_border=true&bg_color=f8fafc&title_color=7c3aed&icon_color=ec4899&text_color=475569">
-    </picture>
-  </a>
-  <a href="https://github.com/Jyotipr45/stream-lab">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Jyotipr45&repo=stream-lab&hide_border=true&bg_color=0b0d14&title_color=34d399&icon_color=84cc16&text_color=94a3b8">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jyotipr45&repo=stream-lab&hide_border=true&bg_color=f8fafc&title_color=059669&icon_color=84cc16&text_color=475569">
-    </picture>
-  </a>
-  <a href="https://github.com/Jyotipr45/java-dsa-mastery">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Jyotipr45&repo=java-dsa-mastery&hide_border=true&bg_color=0b0d14&title_color=fb923c&icon_color=e11d48&text_color=94a3b8">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jyotipr45&repo=java-dsa-mastery&hide_border=true&bg_color=f8fafc&title_color=ea580c&icon_color=e11d48&text_color=475569">
-    </picture>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔵 **[fintech-oauth2-oidc-microservices](https://github.com/Jyotipr45/fintech-oauth2-oidc-microservices)**<br/>
+<sub>Banking microservices secured with OAuth 2.0, OpenID Connect and RS256 JWT — Keycloak, Spring Security 6 and Spring Cloud Gateway.</sub><br/><br/>
+`Java 17` `Spring Boot 3` `Keycloak`
+
+</td>
+<td width="50%" valign="top">
+
+🟣 **[stream-lab](https://github.com/Jyotipr45/stream-lab)**<br/>
+<sub>Hands-on Apache Kafka and Kafka Streams experiments running on KRaft.</sub><br/><br/>
+`Kafka` `Kafka Streams` `Spring Boot 3`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🟢 **[distributed-coupon-system](https://github.com/Jyotipr45/distributed-coupon-system)**<br/>
+<sub>Distributed coupon service built in Java.</sub><br/><br/>
+`Java` `Distributed systems`
+
+</td>
+<td width="50%" valign="top">
+
+🟠 **[car-rental-system-lld](https://github.com/Jyotipr45/car-rental-system-lld)**<br/>
+<sub>Low-level design with SOLID and classic patterns, plus double-booking prevention under concurrency.</sub><br/><br/>
+`Java 17` `LLD` `Design patterns`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -96,12 +104,15 @@ I've shipped microservices for fleet management, document AI (OCR) and RFID asse
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jyotipr45&show_icons=true&hide_border=true&bg_color=0b0d14&title_color=a78bfa&icon_color=06b6d4&text_color=cbd5e1&ring_color=ec4899">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jyotipr45&show_icons=true&hide_border=true&bg_color=f8fafc&title_color=7c3aed&icon_color=06b6d4&text_color=334155&ring_color=ec4899">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jyotipr45&hide_border=true&background=0b0d14&ring=7c3aed&fire=ec4899&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b&stroke=1e2433">
+    <img width="70%" src="https://streak-stats.demolab.com?user=Jyotipr45&hide_border=true&background=ffffff&ring=7c3aed&fire=ec4899&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=7c3aed&sideLabels=64748b&dates=94a3b8&stroke=e2e8f0" alt="GitHub streak">
   </picture>
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotipr45&layout=donut&langs_count=6&hide_border=true&bg_color=0b0d14&title_color=a78bfa&text_color=cbd5e1">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotipr45&layout=donut&langs_count=6&hide_border=true&bg_color=f8fafc&title_color=7c3aed&text_color=334155">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jyotipr45&bg_color=0b0d14&color=94a3b8&line=7c3aed&point=ec4899&area=true&area_color=7c3aed&hide_border=true&title_color=f8fafc">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotipr45&bg_color=ffffff&color=64748b&line=2563eb&point=7c3aed&area=true&area_color=2563eb&hide_border=true&title_color=0f172a" alt="Contribution activity graph">
   </picture>
 </p>
 
