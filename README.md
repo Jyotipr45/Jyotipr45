@@ -1,8 +1,8 @@
-<!-- HEADER — switches automatically with the viewer's GitHub theme -->
+<!-- HEADER: switches automatically with the viewer's GitHub theme -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Jyoti Prakash Parida — I build backends, AI systems, data pipelines, cloud infra.">
+  <img src="./assets/header-light.svg" width="100%" alt="Jyoti Prakash Parida: I build backends, AI systems, data pipelines, cloud infra.">
 </picture>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### About
 
-I'm a backend engineer who builds **reliable, event-driven systems with Java and Spring Boot** — and increasingly, the **AI layer on top of them**.
+I'm a backend engineer who builds **reliable, event-driven systems with Java and Spring Boot**, and increasingly, the **AI layer on top of them**.
 I've shipped microservices for fleet management, document AI (OCR) and RFID asset tracking, and I care about clean APIs, observability and systems that are boring to operate.
 
 <table>
@@ -68,7 +68,7 @@ I've shipped microservices for fleet management, document AI (OCR) and RFID asse
 <td width="50%" valign="top">
 
 🔵 **[fintech-oauth2-oidc-microservices](https://github.com/Jyotipr45/fintech-oauth2-oidc-microservices)**<br/>
-<sub>Banking microservices secured with OAuth 2.0, OpenID Connect and RS256 JWT — Keycloak, Spring Security 6 and Spring Cloud Gateway.</sub><br/><br/>
+<sub>Banking microservices secured with OAuth 2.0, OpenID Connect and RS256 JWT, built with Keycloak, Spring Security 6 and Spring Cloud Gateway.</sub><br/><br/>
 `Java 17` `Spring Boot 3` `Keycloak`
 
 </td>
