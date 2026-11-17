@@ -15,8 +15,9 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,A
 @keyframes draw{to{stroke-dashoffset:0}}
 .in{}
 @keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
-.b1{animation:f1 14s ease-in-out infinite}.b2{animation:f2 17s ease-in-out infinite}.b3{animation:f3 12s ease-in-out infinite}
-@keyframes f1{50%{transform:translate(-60px,30px)}}@keyframes f2{50%{transform:translate(50px,-25px)}}@keyframes f3{50%{transform:translate(-30px,-30px)}}
+.b1{animation:f1 12s ease-in-out infinite}.b2{animation:f2 15s ease-in-out infinite}.b3{animation:f3 10s ease-in-out infinite}
+@keyframes f1{0%,100%{transform:translate(0,0)}33%{transform:translate(-320px,70px)}66%{transform:translate(-120px,-40px)}}@keyframes f2{0%,100%{transform:translate(0,0)}33%{transform:translate(220px,-90px)}66%{transform:translate(-260px,-30px)}}@keyframes f3{0%,100%{transform:translate(0,0)}33%{transform:translate(-380px,-60px)}66%{transform:translate(-160px,-150px)}}
+.spot{animation:spot 16s ease-in-out infinite}@keyframes spot{0%,100%{transform:translate(0,0)}25%{transform:translate(560px,60px)}50%{transform:translate(780px,-40px)}75%{transform:translate(260px,110px)}}
 .chip{}
 .chip:nth-of-type(1){animation-delay:1.00s}.chip:nth-of-type(2){animation-delay:1.08s}.chip:nth-of-type(3){animation-delay:1.16s}.chip:nth-of-type(4){animation-delay:1.24s}.chip:nth-of-type(5){animation-delay:1.32s}.chip:nth-of-type(6){animation-delay:1.40s}
 .blink{animation:bl 1.6s ease-in-out infinite}@keyframes bl{50%{opacity:.25}}
@@ -24,8 +25,9 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,A
 </style>
 <g clip-path="url(#card)">
 <rect width="1000" height="320" fill="#ffffff"/>
-<g filter="url(#soft)" opacity=".14">
+<g filter="url(#soft)" opacity=".24">
 <circle class="b1" cx="860" cy="70" r="120" fill="#7c3aed"/><circle class="b2" cx="700" cy="250" r="110" fill="#06b6d4"/><circle class="b3" cx="960" cy="260" r="90" fill="#ec4899"/></g>
+<g filter="url(#soft)"><circle class="spot" cx="120" cy="150" r="75" fill="#a78bfa" opacity=".35"/></g>
 <rect x="1" y="1" width="998" height="318" rx="19" fill="none" stroke="#e2e8f0" stroke-width="2"/>
 <g class="in" style="animation-delay:.1s"><circle cx="72" cy="56" r="5" fill="#22c55e" class="blink"/><text x="86" y="61" class="eye" fill="#64748b">JYOTI PRAKASH PARIDA</text>
 <text x="930" y="61" text-anchor="end" class="eye" fill="#64748b">BENGALURU · INDIA</text></g>
